@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705871471319",
+    "firebase_url": "https://uber-fmm-mobile.firebaseio.com",
+    "project_id": "uber-fmm-mobile",
+    "storage_bucket": "uber-fmm-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705871471319:android:4ccc3d658f5e5122c68692",
+        "android_client_info": {
+          "package_name": "br.com.kmis.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705871471319-tar980cmkd29b128u74n3u98enojk5a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.kmis.uber",
+            "certificate_hash": "597624a8cbe8feb8dde7012baa92e8aa2a20d0d1"
+          }
+        },
+        {
+          "client_id": "705871471319-tv2c0n8d8n8smlt7486s0cddckfcr1g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmB7OS2GCl_HOzNdPePWhpOiGRoH7nv34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705871471319-tv2c0n8d8n8smlt7486s0cddckfcr1g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
